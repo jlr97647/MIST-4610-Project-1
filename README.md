@@ -57,7 +57,7 @@ Helps to understand the distribution of property values among previous customers
 
 Query 3:
 Tells us what supplier & the material they supply contractors with is the most important. This is useful in real world application so that the company knows what supplier companies to look out for, what material to buy in bulk, and the best pricing. 
-
+<img width="951" alt="image" src="https://github.com/user-attachments/assets/8a2c3650-c076-4008-b39f-ec1451e4aacf">
 
 
 
