@@ -38,7 +38,22 @@ Data Model:
 ![Screen Shot 2024-10-03 at 2 42 15 PM](https://github.com/user-attachments/assets/c402eb55-4ee3-4ce8-94d7-9c57b504e78a)
 
 Data Dictionary:
+/
+/
+/
+Queries:
+Query 1:
+Helps to understand the distribution of property values among previous customers. Useful for identifying high-value and high net-worth customers with multiple properties, in order to make informed decisions and marketing strategies.
 
+
+
+Query 2:
+Helps to understand the distribution of property values among previous customers. Useful for identifying high-value and high net-worth customers with multiple properties, in order to make informed decisions and marketing strategies.
+
+
+
+Query 3:
+Tells us what supplier & the material they supply contractors with is the most important. This is useful in real world application so that the company knows what supplier companies to look out for, what material to buy in bulk, and the best pricing. 
 
 
 
