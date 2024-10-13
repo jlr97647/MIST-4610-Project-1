@@ -47,7 +47,7 @@ Queries:
 
 Query 1:
 Helps to understand the distribution of property values among previous customers. Useful for identifying high-value and high net-worth customers with multiple properties, in order to make informed decisions and marketing strategies.
-
+<img width="508" alt="image" src="https://github.com/user-attachments/assets/691310a1-e030-4924-9eec-1a76fb65c896">
 
 
 Query 2:
