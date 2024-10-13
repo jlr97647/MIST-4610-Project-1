@@ -1,16 +1,16 @@
 # MIST-4610-Project-1
 
-Team Name: BULLDAWGS
+# Team Name: 
+BULLDAWGS
 
-Members:
+# Members:
+      1. Lucas Ramos https://github.com/jlr97647
+      2. Cameron Saini 
+      3. Hitanshi Shah
+      4. Miles Cohall 
+      5. Tyler Martins
 
-      Blank 
-      Blank
-      Blank
-      Blank
-      Blank
-
-Scenario Description:
+# Scenario Description:
 
 Our project serves as a project managament platform.
 
